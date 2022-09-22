@@ -1,0 +1,14 @@
+Customer	Item	  Quantity	Price
+------f
+f
+f
+f
+f
+
+g
+h
+h
+j
+
+k
+i--	----	  --------	------
